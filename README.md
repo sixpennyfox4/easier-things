@@ -1,3 +1,5 @@
+VERSION: 1.0
+
 This is a project i made in my basement. I made it to simplify things(rn it can only run html files in server "i will maybe add more things"). Let me show how to run html file on the server(localhost). We gonna use lang.json file.
 When you open lang.json file you may see something like this:
 
