@@ -113,3 +113,15 @@ And then we add cFile which is the file that electron is gonna load + we add run
 
 ![image](https://github.com/user-attachments/assets/1c996661-c045-4d80-921b-c34deb954d1d)
 
+Oh i forgot we gotta add this inside htmlBasedWindow:
+
+![image](https://github.com/user-attachments/assets/032432f1-aaf7-45c9-a6d8-6f92660169a0)
+
+And we run main.js now and it should open a window like this:
+
+![image](https://github.com/user-attachments/assets/27eb0b77-2053-4078-a3d0-89876b18b2c5)
+
+But yours will be different.
+
+Well thats for this version i may add other things in the future now BYEEEE!
+
