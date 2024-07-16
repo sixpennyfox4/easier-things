@@ -85,4 +85,12 @@ And then we add MotionDetection like this:
 
 ![image](https://github.com/user-attachments/assets/ff64e4eb-084a-40e7-8f5b-f191c4552746)
 
+Now we add detectionText which is text that will show when there is motion you can just do dT and it will replace it with the default text and add run too:
 
+![image](https://github.com/user-attachments/assets/0d098e46-0a7c-47dc-b4cb-4df34cc07045)
+
+Now we just run main.js and there you go:
+
+![image](https://github.com/user-attachments/assets/edd3fc3a-a221-4e6a-8a45-dc922d92a7a2)
+
+I dont have camera connected rn but you can try it for yourself.
