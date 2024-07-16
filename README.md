@@ -64,3 +64,25 @@ When we go to the link we will see this(yours will have different files):
 And if we click on the file it will redirect us to localhost:(port)/(filename)
 
 AND THATS IT, i maybe add more things in the future. BYEEEEEEE
+
+VERSION: 1.1
+
+Hello again, i updated this thing. 
+
+New things: motion-detector with opencv, browser-window with electron
+
+Lets first show motion detection.
+
+You need python isntalled and cv2 which you can install with pip install opencv-python
+
+NOW LETS GET IN THE NEW THINGS!
+
+First we gotta declare camera like this:
+
+![image](https://github.com/user-attachments/assets/f4e4d210-c5e4-4aea-9eb9-8393a7ba5de2)
+
+And then we add MotionDetection like this:
+
+![image](https://github.com/user-attachments/assets/ff64e4eb-084a-40e7-8f5b-f191c4552746)
+
+
