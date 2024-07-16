@@ -1,0 +1,4 @@
+{
+    "_comment": "defConfFile is the main json file used to run html files in the server and more. You can change it to other json file!",
+    "defConfFile": "lang.json"
+}

@@ -1,0 +1,10 @@
+{
+  "main": "cw.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "license": "MIT",
+  "dependencies": {
+      "version": "^13.0.0"
+  }
+}
