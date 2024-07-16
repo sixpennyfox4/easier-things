@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/fb8cf5f2-45aa-4cfb-b86f-e7cc5b090729)
 VERSION: 1.0
 
 This is a project i made in my basement. I made it to simplify things(rn it can only run html files in server "i will maybe add more things"). Let me show how to run html file on the server(localhost). We gonna use lang.json file.
@@ -93,4 +93,23 @@ Now we just run main.js and there you go:
 
 ![image](https://github.com/user-attachments/assets/edd3fc3a-a221-4e6a-8a45-dc922d92a7a2)
 
-I dont have camera connected rn but you can try it for yourself.
+I dont have camera connected rn but you can try it for yourself and press q to exit.
+
+Now lets see how about electron thing.
+
+We type createWindow like this:
+
+![image](https://github.com/user-attachments/assets/2116445c-b00e-4af1-8e00-6c22d6aff203)
+
+Now we add width and height:
+
+![image](https://github.com/user-attachments/assets/fe4b3d9d-45a7-42fd-be71-271bcb86cf48)
+
+After that we add icon:
+
+![image](https://github.com/user-attachments/assets/18e65f8e-4d39-467d-b324-16826f72e183)
+
+And then we add cFile which is the file that electron is gonna load + we add run:
+
+![image](https://github.com/user-attachments/assets/1c996661-c045-4d80-921b-c34deb954d1d)
+
