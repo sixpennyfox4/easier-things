@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fb8cf5f2-45aa-4cfb-b86f-e7cc5b090729)
 VERSION: 1.0
 
 This is a project i made in my basement. I made it to simplify things(rn it can only run html files in server "i will maybe add more things"). Let me show how to run html file on the server(localhost). We gonna use lang.json file.
