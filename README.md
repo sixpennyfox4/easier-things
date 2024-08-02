@@ -130,7 +130,7 @@ I updated this shi(thing) again because i didnt know what to do.
 
 New things: weather fetching with weatherapi.com's api(BRUH)
 
-To use you you type getWeather and inside you type location tempType and api key AND THE FUC(stupid) run:
+To use you gotta type getWeather and inside you type location tempType and api key AND THE FUC(stupid) run:
 
 ![image](https://github.com/user-attachments/assets/57a437c9-8658-4657-94dc-a07fb9deb3cf)
 
