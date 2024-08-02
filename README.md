@@ -132,6 +132,6 @@ New things: weather fetching with weatherapi.com's api(BRUH)
 
 To use you gotta type getWeather and inside you type location tempType and api key AND THE FUC(stupid) run:
 
-![image](https://github.com/user-attachments/assets/57a437c9-8658-4657-94dc-a07fb9deb3cf)
+![image](https://github.com/user-attachments/assets/d87c0b28-b306-4627-98d2-455ab8f6ce5c)
 
 BYEEEEE
