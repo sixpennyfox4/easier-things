@@ -1,4 +1,4 @@
-# <center>VERSION: 1.0</center>
+# VERSION: 1.0
 
 ### This is a project i made in my basement. I made it to simplify things(rn it can only run html files in server "i will maybe add more things"). Let me show how to run html file on the server(localhost). We gonna use lang.json file.
 
@@ -65,7 +65,7 @@ And then specify a mode(singleFile or singleFolder). I will show first with sing
 
 ### AND THATS IT, i maybe add more things in the future. BYEEEEEEE
 
-# <center>VERSION: 1.1</center>
+# VERSION: 1.1
 
 ### Hello again, i updated this thing. 
 
@@ -125,7 +125,7 @@ And then specify a mode(singleFile or singleFolder). I will show first with sing
 
 ### Well thats for this version i may add other things in the future now BYEEEE!
 
-# <center>VERSION 1.2</center>
+# VERSION 1.2
 
 ### I updated this shi(thing) again because i didnt know what to do.
 
