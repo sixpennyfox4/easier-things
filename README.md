@@ -109,7 +109,7 @@ And then specify a mode(singleFile or singleFolder). I will show first with sing
 
 ![image](https://github.com/user-attachments/assets/18e65f8e-4d39-467d-b324-16826f72e183)
 
-### 032432f1And then we add cFile which is the file that electron is gonna load + we add run:
+### And then we add cFile which is the file that electron is gonna load + we add run:
 
 ![image](https://github.com/user-attachments/assets/1c996661-c045-4d80-921b-c34deb954d1d)
 
